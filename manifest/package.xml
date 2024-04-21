@@ -228,6 +228,10 @@
 <name>MatchingRules</name>
 </types>
 <types>
+    <members>*</members>
+    <name>LightningMessageChannel</name>
+</types>
+<types>
 <members>*</members>
 <name>NamedCredential</name>
 </types>
