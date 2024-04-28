@@ -116,4 +116,8 @@
         <name>standard__LightningBolt</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Friend_Ships</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
