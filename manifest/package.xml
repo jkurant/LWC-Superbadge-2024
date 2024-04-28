@@ -325,6 +325,10 @@
 </types>
 <types>
 <members>*</members>
+<name>Tabs</name>
+</types>
+<types>
+<members>*</members>
 <name>TopicsForObjects</name>
 </types>
 <types>
